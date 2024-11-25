@@ -9,7 +9,8 @@
 
 ✅ **支持中文**: 拥有极其流畅的声线和中文端到端流式输出语音能力！
 
-✅ **拟人人格**: 拟人人设！
+✅ **拟人人格**: 拟人的人设！
+
 [2024-11-17]我们即将释放半双工并行流输出实时语音流模型，并支持中文以及拥有更好的音色，保持跟进！！！
 
 We will to release a half-duplex parallel streaming real-time speech model that supports Chinese and offers better voice quality. Stay tuned!
